@@ -160,6 +160,5 @@ Metric outputs include:
 ```text
 analysis_summary.json
 all_metrics.jsonl
-recovery_failed.jsonl  # only when recovery is enabled and failures/skips exist
 ```
 
